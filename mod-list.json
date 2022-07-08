@@ -69,6 +69,11 @@
     },
     
     {
+      "name": "factoryplanner",
+      "enabled": true
+    },
+    
+    {
       "name": "flib",
       "enabled": true
     },

@@ -40,6 +40,4 @@ Extra:
     merging chests
     attach notes
     task list
-
-NYI:
-    helmod  / factory planner (?)
+    factory planner
