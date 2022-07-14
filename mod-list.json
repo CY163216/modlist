@@ -59,6 +59,11 @@
     },
     
     {
+      "name": "Deadlock-SE-bridge",
+      "enabled": true
+    },
+    
+    {
       "name": "equipment-gantry",
       "enabled": true
     },
@@ -135,6 +140,11 @@
     
     {
       "name": "Nanobots",
+      "enabled": true
+    },
+    
+    {
+      "name": "oaqcy-fixes",
       "enabled": true
     },
     
@@ -230,6 +240,11 @@
     
     {
       "name": "WideChests",
+      "enabled": true
+    },
+    
+    {
+      "name": "WideChests-aai-reskin",
       "enabled": true
     },
     
