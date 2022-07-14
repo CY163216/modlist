@@ -41,3 +41,4 @@ Extra:
     attach notes
     task list
     factory planner
+    oaqcy-fixes (custom)
